@@ -1,2 +1,2 @@
 # acavender.github.io
-A repository for projects I'm using to learn web development
+For now, a placeholder. I may do something with it eventually.
